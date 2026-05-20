@@ -1,6 +1,6 @@
 # Aeshvarya
 
-A project by Zack (Aeshvarya Awasthi).
+A project by Aeshvarya Awasthi
 
 ## Overview
 

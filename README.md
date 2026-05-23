@@ -57,10 +57,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeshvarya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshvarya&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeshvarya&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeshvarya&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aeshvarya&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>

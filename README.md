@@ -21,10 +21,10 @@
 - **ML projects** — currently going deep on the fundamentals
 
 ### Currently
-- 🔭 Working through a 90-day ML roadmap
-- 🧠 Sharpening DSA — targeting 150+ LeetCode problems this summer
-- 🛠️ Building AI automation projects with LangChain + Claude API
-- 📚 CS50P in progress
+-  Working through a 90-day ML roadmap
+-  Sharpening DSA — targeting 150+ LeetCode problems this summer
+-  Building AI automation projects with LangChain + Claude API
+  
 
 ---
 

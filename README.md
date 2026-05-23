@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aeshvarya-awasthi-27586b393/" target="_blank">
+  <a href="https://www.linkedin.com/in/aeshvarya-awasthi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aeshvarya310305@gmail.com">

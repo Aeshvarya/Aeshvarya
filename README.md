@@ -53,7 +53,6 @@ class Aeshvarya:
 |     | Project | What it is |
 | --- | ------- | ---------- |
 | 🧠 | **AutoSetter** | AI-powered DSA problem setter — embeddings + vector search to kill duplicate problems, real-time collab via WebSockets |
-| 💜 | **Us — Always** | A private couple app — React Native + Expo + Supabase |
 | 🏠 | **3D Property Tours** | Video → Gaussian-splat pipeline for real-estate walkthroughs |
 | 🌌 | **3D Portfolio** | Three.js galaxy + GSAP scroll-driven storytelling |
 | 🤖 | **AI Automations** | LLM pipelines & agent loops on the Claude API + LangChain |

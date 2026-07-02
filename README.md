@@ -1,65 +1,134 @@
-<h1 align="center">Hey, I'm Aeshvarya 👋</h1>
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=AESHVARYA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20IIT%20Jodhpur%20%C2%B7%20Creator&descSize=18&descAlignY=55" />
+
+<!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/Aeshvarya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=I+build+AI+that+actually+ships.;LLM+pipelines+%C2%B7+RAG+%C2%B7+Agents;Full-stack+%E2%80%94+Next.js+%C2%B7+React+Native;31K+people+watch+me+build+on+YouTube;Outputs+%3E+Consumption." alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  AI/Full-Stack Developer &nbsp;·&nbsp; IIT Jodhpur &nbsp;·&nbsp; Building things that actually work
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aeshvarya-awasthi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aeshvarya-awasthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@ZackVlogss">
+    <img src="https://img.shields.io/badge/YouTube-31K+_subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:aeshvarya310305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Aeshvarya&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
 </p>
 
----
+<br/>
 
-### What I build
-- **AI-powered apps** — LLM pipelines, RAG systems, automation tools
-- **Full-stack products** — Next.js, React Native, Supabase, Express
-- **ML projects** — currently going deep on the fundamentals
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## ⚡ The short version
 
-### Currently
--  Working through a 90-day ML roadmap
--  Sharpening DSA — targeting 150+ LeetCode problems this summer
--  Building AI automation projects with LangChain + Claude API
-  
+```python
+class Aeshvarya:
+    def __init__(self):
+        self.location   = "IIT Jodhpur, India 🇮🇳"
+        self.role       = "AI / Full-Stack Developer"
+        self.side_quest = "YouTuber — 31,000+ subscribers"
+        self.rule       = "1 hr of tutorials → 2 hrs of building. Minimum."
 
----
+    def current_grind(self):
+        return {
+            "ai":  "Agents, tool use & RAG on the Claude API",
+            "dsa": "150+ LeetCode problems this summer 🎯",
+            "gym": "Push · Pull · Legs — 4x/week, no excuses",
+        }
 
-### Tech Stack
+    def philosophy(self):
+        return "Outputs > Consumption"
+```
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<!-- ═══════════════════════ BUILDING ═══════════════════════ -->
+## 🚀 What I'm building
+
+|     | Project | What it is |
+| --- | ------- | ---------- |
+| 🧠 | **AutoSetter** | AI-powered DSA problem setter — embeddings + vector search to kill duplicate problems, real-time collab via WebSockets |
+| 💜 | **Us — Always** | A private couple app — React Native + Expo + Supabase |
+| 🏠 | **3D Property Tours** | Video → Gaussian-splat pipeline for real-estate walkthroughs |
+| 🌌 | **3D Portfolio** | Three.js galaxy + GSAP scroll-driven storytelling |
+| 🤖 | **AI Automations** | LLM pipelines & agent loops on the Claude API + LangChain |
+
+<br/>
+
+<!-- ═══════════════════════ TECH ═══════════════════════ -->
+## 🛠️ Arsenal
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" />
 
 **Frontend & Mobile**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs&theme=dark" />
 
-**Backend & DB**
+**Backend, DB & AI**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,express,nodejs,git,vercel&theme=dark" />
 
-**AI / ML**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Systems-4A00E0?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
----
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeshvarya&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aeshvarya&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 Proof of work
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aeshvarya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=00C9FF&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshvarya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E2DE2" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aeshvarya&theme=tokyonight&hide_border=true&background=0d1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshvarya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aeshvarya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ CREATOR ═══════════════════════ -->
+## 🎥 The other side of me
+
+I don't just write code — I document the whole journey. **31K+ people** watch me grind, build, and level up in public.
+
+<div align="center">
+  <a href="https://www.youtube.com/@ZackVlogss">
+    <img src="https://img.shields.io/badge/▶_Zack_Vlogs-The_journey,_documented-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Discipline%20is%20choosing%20between%20what%20you%20want%20now%20and%20what%20you%20want%20most.&author=Abraham%20Lincoln" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" />

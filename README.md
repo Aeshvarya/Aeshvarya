@@ -106,10 +106,6 @@ class Aeshvarya:
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshvarya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aeshvarya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
 <br/>
 
 <!-- ═══════════════════════ CREATOR ═══════════════════════ -->

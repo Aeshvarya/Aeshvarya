@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aeshvarya-awasthi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@ZackVlogss">
+  <a href="https://www.youtube.com/@zackvlogs24">
     <img src="https://img.shields.io/badge/YouTube-31K+_subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:aeshvarya310305@gmail.com">
@@ -119,7 +119,7 @@ class Aeshvarya:
 I don't just write code — I document the whole journey. **31K+ people** watch me grind, build, and level up in public.
 
 <div align="center">
-  <a href="https://www.youtube.com/@ZackVlogss">
+  <a href="https://www.youtube.com/@zackvlogs24">
     <img src="https://img.shields.io/badge/▶_Zack_Vlogs-The_journey,_documented-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>

@@ -24,6 +24,10 @@
 <br/>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
+
 ## ⚡ The short version
 
 ```python
@@ -47,6 +51,8 @@ class Aeshvarya:
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
 <!-- ═══════════════════════ BUILDING ═══════════════════════ -->
 ## 🚀 What I'm building
 
@@ -58,6 +64,8 @@ class Aeshvarya:
 | 🤖 | **AI Automations** | LLM pipelines & agent loops on the Claude API + LangChain |
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <!-- ═══════════════════════ TECH ═══════════════════════ -->
 ## 🛠️ Arsenal
@@ -88,6 +96,8 @@ class Aeshvarya:
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📊 Proof of work
 
@@ -108,6 +118,8 @@ class Aeshvarya:
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
 <!-- ═══════════════════════ CREATOR ═══════════════════════ -->
 ## 🎥 The other side of me
 
@@ -121,9 +133,23 @@ I don't just write code — I document the whole journey. **31K+ people** watch 
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+
 <!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Discipline%20is%20choosing%20between%20what%20you%20want%20now%20and%20what%20you%20want%20most.&author=Abraham%20Lincoln" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+all+the+way+down!;Now+go+build+something.+%F0%9F%9A%80" alt="footer typing" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" />

@@ -33,28 +33,11 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
-
 ## ⚡ The short version
 
-```python
-class Aeshvarya:
-    def __init__(self):
-        self.location   = "IIT Jodhpur, India 🇮🇳"
-        self.role       = "AI / Full-Stack Developer"
-        self.side_quest = "YouTuber — 31,000+ subscribers"
-        self.rule       = "1 hr of tutorials → 2 hrs of building. Minimum."
-
-    def current_grind(self):
-        return {
-            "ai":  "Agents, tool use & RAG on the Claude API",
-            "dsa": "150+ LeetCode problems this summer 🎯",
-            "gym": "Push · Pull · Legs — 4x/week, no excuses",
-        }
-
-    def philosophy(self):
-        return "Outputs > Consumption"
-```
+<div align="center">
+  <img src="assets/code.svg" width="660" alt="class Aeshvarya — typed out" />
+</div>
 
 <br/>
 

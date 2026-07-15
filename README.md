@@ -26,7 +26,7 @@
 <img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ SHORT VERSION ═══════════════════════ -->
-<img src="assets/brand/h-short.svg" height="40" alt="The short version" />
+<img src="assets/brand/h-short.svg?v=2" height="56" alt="The short version" />
 
 <div align="center">
   <img src="assets/code.svg" height="300" alt="class Aeshvarya — typed out" />
@@ -39,7 +39,7 @@
 <img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ BUILDING ═══════════════════════ -->
-<img src="assets/brand/h-building.svg" height="40" alt="What I'm building" />
+<img src="assets/brand/h-building.svg?v=2" height="56" alt="What I'm building" />
 
 <br/>
 
@@ -55,7 +55,7 @@
 <img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
-<img src="assets/brand/h-arsenal.svg" height="40" alt="Arsenal" />
+<img src="assets/brand/h-arsenal.svg?v=2" height="56" alt="Arsenal" />
 
 <div align="center">
 <br/>
@@ -79,7 +79,7 @@
 <img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ PROOF OF WORK ═══════════════════════ -->
-<img src="assets/brand/h-proof.svg" height="40" alt="Proof of work" />
+<img src="assets/brand/h-proof.svg?v=2" height="56" alt="Proof of work" />
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aeshvarya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=3B82F6&text_color=8b949e&count_private=true" />
@@ -111,7 +111,7 @@
 <img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ CREATOR ═══════════════════════ -->
-<img src="assets/brand/h-creator.svg" height="40" alt="Beyond the code" />
+<img src="assets/brand/h-creator.svg?v=2" height="56" alt="Beyond the code" />
 
 <br/>
 

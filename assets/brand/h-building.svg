@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="383" height="48" viewBox="0 0 383 48" font-family="ui-monospace,SFMono-Regular,Menlo,'Liberation Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="541" height="66" viewBox="0 0 541 66" font-family="ui-monospace,SFMono-Regular,Menlo,'Liberation Mono',monospace">
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a855f7"/><stop offset="55%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#3b82f6"/></linearGradient></defs>
-  <rect x="22" y="10" width="6" height="28" rx="3" fill="url(#g)"/>
-  <text x="40" y="32" font-size="23" letter-spacing="5" font-weight="700" fill="url(#g)">WHAT I'M BUILDING</text>
+  <rect x="24" y="14" width="9" height="40" rx="4.5" fill="url(#g)"/>
+  <text x="48" y="46" font-size="34" letter-spacing="7" font-weight="700" fill="url(#g)">WHAT I'M BUILDING</text>
 </svg>

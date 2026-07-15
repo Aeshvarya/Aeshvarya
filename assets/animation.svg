@@ -1,0 +1,350 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="676" viewBox="0 0 564 676" font-family="'SFMono-Regular','Consolas','Liberation Mono',monospace">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(0 .5 .5)">
+      <stop offset="0%"  stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+      <animateTransform attributeName="gradientTransform" type="rotate"
+        from="0 .5 .5" to="360 .5 .5" dur="16s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="type">
+      <rect x="152.8" y="629.4" height="29" width="0">
+        <animate attributeName="width" dur="4.5s" repeatCount="indefinite"
+          keyTimes="0;0.45;0.9;1" values="0;258.4;258.4;0"/>
+      </rect>
+    </clipPath>
+    <style>
+      .mono { font-size:11px; font-weight:600; fill:url(#g); white-space:pre; }
+      #faceG { animation: faceA 9s ease-in-out infinite; }
+      #compG { animation: compA 9s ease-in-out infinite; }
+      @keyframes faceA { 0%,44% {opacity:1} 50%,94% {opacity:0} 100% {opacity:1} }
+      @keyframes compA { 0%,44% {opacity:0} 50%,94% {opacity:1} 100% {opacity:0} }
+      /* shimmer: 3 dithered variants hard-swap, exactly one visible */
+      #v0,#c0 { animation: s0 1.6s steps(1) infinite; }
+      #v1,#c1 { animation: s1 1.6s steps(1) infinite; }
+      #v2,#c2 { animation: s2 1.6s steps(1) infinite; }
+      @keyframes s0 { 0%,33.3% {opacity:1} 33.4%,100% {opacity:0} }
+      @keyframes s1 { 0%,33.3% {opacity:0} 33.4%,66.6% {opacity:1} 66.7%,100% {opacity:0} }
+      @keyframes s2 { 0%,66.6% {opacity:0} 66.7%,100% {opacity:1} }
+      #cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%,50% {opacity:1} 50.1%,100% {opacity:0} }
+      .name { font-size:21px; font-weight:700; fill:url(#g); letter-spacing:1px; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#0d1117" rx="14"/>
+  <g id="compG">
+<text id="c0" class="mono" xml:space="preserve"><tspan x="18" y="29.0"> </tspan>
+<tspan x="18" y="40.7"> </tspan>
+<tspan x="18" y="52.3"> </tspan>
+<tspan x="18" y="64.0"> </tspan>
+<tspan x="18" y="75.6"> </tspan>
+<tspan x="18" y="87.3"> </tspan>
+<tspan x="18" y="99.0"> </tspan>
+<tspan x="18" y="110.6"> </tspan>
+<tspan x="18" y="122.3">         .`...`.```'``''```'`'`'``''``'`::'`''''``''`'''`''``''``...`.</tspan>
+<tspan x="18" y="133.9">        .''`:,:':,:,::,:,,-:-,:,-,,,,-,,,,---,-,-,--:--:,:::,:,:,,:'``'.</tspan>
+<tspan x="18" y="145.6">       .'''-~~=+=~+===++++**+*c***cc*****c******cc***++*++=+++==~==~-'''`</tspan>
+<tspan x="18" y="157.3">       .'`,~=~++=++*c*c**coccoxooxocxoxoxoccccc*c*cc***++**++=++=+~==,'``</tspan>
+<tspan x="18" y="168.9">       `:::~====++xOwOOXOXOXX#XXX##XXXXX#wcc**coco*o*ccc*c+++*+=*+===-```</tspan>
+<tspan x="18" y="180.6">       `:'-=+=++***oooxxxxoxxxooxxxwxocccc*ccco*cccccco*c***c++*=+=+=,`:'</tspan>
+<tspan x="18" y="192.2">       `'',===+=*+xX#O#XXXXX#OOXXO#XO*ccccco*c**ccc*o**c***ccc*c*++*+-:'`</tspan>
+<tspan x="18" y="203.9">       .':,***oxoxowxxxxxxxwwoxowxwxxwwxxxxxxxwwwwxwwxxcocccco*cc*+**~':'</tspan>
+<tspan x="18" y="215.6">       `::,++cxwOOXXXOOXXOXXOOOOOXOOOXXOOOXXXOX#X###OXOo**co*oc**c*+*=''`</tspan>
+<tspan x="18" y="227.2">       `''-c*cxwwwwwxwxxwxxwOwwOxOxxwOxxOOwwwxwcc*c*co*c**cco*oc****c=''`</tspan>
+<tspan x="18" y="238.9">       '::~*ccwXOOXwOOXOOOOwOwOOOOXOOOXXXwOOOOwcoococccococ*ccoc*c*c+~::`</tspan>
+<tspan x="18" y="250.5">       ',:-c*cc*cc*ccoxOOwOwOOwwOOOwwwwOxccc*ccccc*co**ccco*ooccccc*o~':'</tspan>
+<tspan x="18" y="262.2">       ':,-cccc****ccowOxOwwOOOwwxwwwwwwccc*c*c*cc**cccco*ccoccocc*oc=':'</tspan>
+<tspan x="18" y="273.9">       ',,~ccccocc*ccxOXOwOOXOXwOOOOXOOOXXOOOOOO*cc**c*occ**cc**cccco~','</tspan>
+<tspan x="18" y="285.5">       `,:~ooc**occc*oxwwwwwxxxwwxwwxwxxxwxwwxwwccoco**ccc*c*oco*o*c*=,,'</tspan>
+<tspan x="18" y="297.2">       '::~cocXXX#X##XOXOXXXOOXXOXocc*ccoccc*ccccccoccc*c*ooc*cccccco~::'</tspan>
+<tspan x="18" y="308.8">       ':'-ooowwwowxoxxoxxxxowoooxcooc*c*co*cccccc**cccooccoccoc*c*cc+::'</tspan>
+<tspan x="18" y="320.5">       `,:-oocccocO#O##XX#XOXXXXXX##XXXX##XX###XXOXXXXo*c*c**c*cccooc=:::</tspan>
+<tspan x="18" y="332.2">       ',:=coococcooxoxxxxxcxocxxoooxxxoooxxoooooooxoxc**cococ**o***o~:::</tspan>
+<tspan x="18" y="343.8">       `:,,=*****cc*c**+c***cc**++++c****c*+*c*c+**cc***+***ccc**c*+=,::'</tspan>
+<tspan x="18" y="355.5">        `:::,-:-,:-,-,,-,,,-,,,,-,--,,:,:::,:,,--,:,,:,-,,,--,--,,,,,:'`</tspan>
+<tspan x="18" y="367.1">          .``.'.`````.``.`````.'```:-,-,-,,-:`.'`'``.````'`.```'`````</tspan>
+<tspan x="18" y="378.8">                                  .~-~-~~~-~~.</tspan>
+<tspan x="18" y="390.5">                                  ,~~~~~==-~~~</tspan>
+<tspan x="18" y="402.1">                                 '=~~~-~--~-~-,</tspan>
+<tspan x="18" y="413.8">                                .=-=~~~-~~~~-~~'</tspan>
+<tspan x="18" y="425.4">                               .---~~-=~=~-~~~~-</tspan>
+<tspan x="18" y="437.1">                      ':::,,,::-++++==+++==+==+==:,,:,:,:,</tspan>
+<tspan x="18" y="448.8">                     :cc*c*cc+cc****+++c*+***c++**c+*+cc*c~</tspan>
+<tspan x="18" y="460.4">               ````..'-----,,----,--~,-,~,~,,-~-,~-,,--,-,'`.`..`.</tspan>
+<tspan x="18" y="472.1">             `--~~~~-~~~~~=--=~~=~~-~~~~~=~~=~~=-~=~~~~---=-~--~,,`</tspan>
+<tspan x="18" y="483.7">            `,-,--=xxc-*ww++wwo~oOwc~xXO++OOc-wwO++OOo-cwo+-xxc,=*o:</tspan>
+<tspan x="18" y="495.4">           `-,,,,,=OXo,oXX*~###-x@%c~X%#=o@%w-X%@==%#O-xX#+~Owo:+wo='      .''':</tspan>
+<tspan x="18" y="507.1">          `,,-,,,:=wwc-oXX==O#O-c##c=X@X=*#%x-O%X++X#o,oXO+-xOo,*ox=,`    `~==-~</tspan>
+<tspan x="18" y="518.7">         ``':''::::~~-:--=,:~=~,,==,:~=~,-==-:~==,-=~~:,~-,,~--':,,,`'.   :~--,-</tspan>
+<tspan x="18" y="530.4">                                                                          '--,-,</tspan>
+<tspan x="18" y="542.0">                                                                          `:-,,,</tspan>
+<tspan x="18" y="553.7">                                                                             .</tspan>
+<tspan x="18" y="565.4"> </tspan>
+<tspan x="18" y="577.0"> </tspan>
+<tspan x="18" y="588.7"> </tspan>
+<tspan x="18" y="600.3"> </tspan>
+<tspan x="18" y="612.0"> </tspan></text>
+<text id="c1" class="mono" xml:space="preserve"><tspan x="18" y="29.0"> </tspan>
+<tspan x="18" y="40.7"> </tspan>
+<tspan x="18" y="52.3"> </tspan>
+<tspan x="18" y="64.0"> </tspan>
+<tspan x="18" y="75.6"> </tspan>
+<tspan x="18" y="87.3"> </tspan>
+<tspan x="18" y="99.0"> </tspan>
+<tspan x="18" y="110.6"> </tspan>
+<tspan x="18" y="122.3">          ````.```'````'`'`''`'`''`'`'````````''''``''`'``````.`..```..</tspan>
+<tspan x="18" y="133.9">        .''''',:::,:,:::-:,,-:-,-,-,,-,,,---,-,,-,:--,-,:,:,,,::''::'```</tspan>
+<tspan x="18" y="145.6">       .'`:,-~~+=+==+==+++*+*+c*c+cc*ccccccc*c*c*c***+++*=**===~~=~~-:`'`</tspan>
+<tspan x="18" y="157.3">       `:`,++=~=+*+*+c*co*ocooccoocococcooocc**cooc*+*++**+*==++==~~=,`'`</tspan>
+<tspan x="18" y="168.9">       .'',==++=+=xOwOXXXOXX##XXXX#X#%###w*c*ccccooccc*c*c***+++++~~~-`:'</tspan>
+<tspan x="18" y="180.6">       .''-+=+=+*+coooxxxwwxxxwxxoxoocc*ooc*cc***occcoocc**c*++*=*+=+~':'</tspan>
+<tspan x="18" y="192.2">       .::-=**++*+wX##XXOXXXX#OOO#X#w*c*cccccocc*cccc**cc*cc**++++*++~''`</tspan>
+<tspan x="18" y="203.9">       .::-+**oooowxooxoxwwowwxwxwxwwwwoxooxxxxxxwwwoxxocc**cc*c+**+*-':'</tspan>
+<tspan x="18" y="215.6">       `::,*+*wOwXXOOXOOXXOOOOXXXOXXOOXOOOO#OOOOXXXXXOOo*c*cc*cccc*++-':'</tspan>
+<tspan x="18" y="227.2">       `:',c+*oxOxwxwxwwxxxwwxxwwxOxOwxxwwxwxxw*ccccc*c**cc***c*c*cc*~:'`</tspan>
+<tspan x="18" y="238.9">       `::-c*cwXwXOOOOXXwwwXwOwOXOwOwOwwXOOXwXOoc*o*ccccoccccc*co*cc*=':'</tspan>
+<tspan x="18" y="250.5">       '::~**o****c**oOwOwwwxOwwwOwOwOOwx*c*ccc**c*occoo**cc*coccccc*=:':</tspan>
+<tspan x="18" y="262.2">       `,:-*coccccc*ooOOwwwwOwwwOwwxwwxOoccccc***c*occcc**cccccc*cco*=::'</tspan>
+<tspan x="18" y="273.9">       `,,-c**ococ**oxOOXOXXOwOOwOwOXOOOwOOOOOOOcc*cc*cc*ccco*occc*cc~','</tspan>
+<tspan x="18" y="285.5">       `:'-c*ccc**ccccxxxwwxwwwwwxxxOwxwwwOOwxxw*cooo*cc*c*o*occcco*o='::</tspan>
+<tspan x="18" y="297.2">       ':,~cccXXOXOXXXXX#OOXO##OOXc*cc*cccc*ccccooc**cco*ccocc*cc*c*o=':'</tspan>
+<tspan x="18" y="308.8">       `,'=cccxxxwoxxwxwxwwoxxooxoo**o***cccccc**oooccccccoc**occ**oc=','</tspan>
+<tspan x="18" y="320.5">       '::=c**cc*cxXX##X###X#OXXX#######XXX#X###XX#XX#coccc*oc**c*oc*+',:</tspan>
+<tspan x="18" y="332.2">       `,:~occ*cccocoxooxoxxxooxxxoooxoxoooxxooxxxoxoxooo**cccccc*cco=:::</tspan>
+<tspan x="18" y="343.8">       .:::=c***+**+c*c+c**********+****c*cc**+++**+***cc+*+**c*+c+*+-':`</tspan>
+<tspan x="18" y="355.5">        `:,:,-,::,,,,::,,,,-:,,,,::-,,,,:::,:-,,,,,:,,,,:,,:,,-,,-,,,,'.</tspan>
+<tspan x="18" y="367.1">           .`````..'.'`.'`.`.'.''``:--,~,,,-:`'`.'```.''''```'`.``.'.</tspan>
+<tspan x="18" y="378.8">                                  .-~=-~=--=~`</tspan>
+<tspan x="18" y="390.5">                                  -~~~-~~~~~~,</tspan>
+<tspan x="18" y="402.1">                                 '=~~=-=--~=~=,</tspan>
+<tspan x="18" y="413.8">                                `~~=~~-=~~~-~~=`</tspan>
+<tspan x="18" y="425.4">                                ~~~-===~~~~--=--</tspan>
+<tspan x="18" y="437.1">                      ::,,:,::,~+=++==+=++==++=+~,,::,,,,,.</tspan>
+<tspan x="18" y="448.8">                     :*c***+c***+*+***c*cc+*+***ccc+cc***c-</tspan>
+<tspan x="18" y="460.4">               `..`.``,~---,-~----~~--,,,-,--~-,-,--,-----'`...``.</tspan>
+<tspan x="18" y="472.1">             `,-~--~~-~~~-==~~==~-~~=~=~==~-=~=~=~~=-~=-~-~~~~~~--`</tspan>
+<tspan x="18" y="483.7">            `,-,,,=coo~*xx+=Owx~cOw*~OOw=+XOo~xOw=+Owc-cwx~-xo*-+c*,</tspan>
+<tspan x="18" y="495.4">           ',,,,,-~XOx-oX#*=##O-o%%x=#@%~o%@w-O%#+*##x-oXX+-XOo,*ww+'      .`''`</tspan>
+<tspan x="18" y="507.1">          `::--,,:~wOo-cXO+~O%X-o#%o~O#X~c#%o~w%#++X#x-xOO=~wwx,=xx~,'    .-~~~-</tspan>
+<tspan x="18" y="518.7">         `''''':'',~~-,-=~-,~=~,-==~:~==,-==-,~==,,=~-,--~,:~-,:,--,:'.   :-~---</tspan>
+<tspan x="18" y="530.4">                                                                          :--,:,</tspan>
+<tspan x="18" y="542.0">                                                                          `:,-,,</tspan>
+<tspan x="18" y="553.7">                                                                             ...</tspan>
+<tspan x="18" y="565.4"> </tspan>
+<tspan x="18" y="577.0"> </tspan>
+<tspan x="18" y="588.7"> </tspan>
+<tspan x="18" y="600.3"> </tspan>
+<tspan x="18" y="612.0"> </tspan></text>
+<text id="c2" class="mono" xml:space="preserve"><tspan x="18" y="29.0"> </tspan>
+<tspan x="18" y="40.7"> </tspan>
+<tspan x="18" y="52.3"> </tspan>
+<tspan x="18" y="64.0"> </tspan>
+<tspan x="18" y="75.6"> </tspan>
+<tspan x="18" y="87.3"> </tspan>
+<tspan x="18" y="99.0"> </tspan>
+<tspan x="18" y="110.6"> </tspan>
+<tspan x="18" y="122.3">          `````.`..``.`'''``'`''`'`''`':''''`''''`''`''`'`''``.`..``..</tspan>
+<tspan x="18" y="133.9">        .''`::::::,,:,:,,,-,,,-,-----,-,-,,--,,--,-,,:-,,,,::,:':::'`'``</tspan>
+<tspan x="18" y="145.6">       .'''-~=~~+=+===+***++*+*++**c**c*c******c**c*****+*+==+==+~~~~:''`</tspan>
+<tspan x="18" y="157.3">       .'`:=======+*cc*c*coocccoxoocoocoooocc*ccc**c***c+*=*+++=====~,''.</tspan>
+<tspan x="18" y="168.9">       .'',=~====+owXwwX#O#X#X#XXXXXXXXX#wccc*cooooc*oc*c****+*++=+~+,`:'</tspan>
+<tspan x="18" y="180.6">       `:`,==++++**cocoxoxowxxxxxwxxccocc*oc*oocccoco*c****c**c+*+++=-'''</tspan>
+<tspan x="18" y="192.2">       ```,=+++*++wOOXOXXOXXOXXO#X#OOc**occcc*cc***c***c*ccc*cc****==-::'</tspan>
+<tspan x="18" y="203.9">       .''-*++ccxoxxxxxxwxxwwxxwxxwwwxowoxwwxowwxxwwwxoo****coc*c+**+-`'`</tspan>
+<tspan x="18" y="215.6">       '::-++cwOXOOXXO#OXXXXXOOOXXXOXXOXOOX#O#XXXXXX#XXo**ccc*cccc++c-'''</tspan>
+<tspan x="18" y="227.2">       `':~+ccxwOwxxOwwwxwxwOwxxwwwxwwwwwOOwwwxo********o*cocc*ooc**c~',:</tspan>
+<tspan x="18" y="238.9">       `,'-++owwOwOwOOOXOwwwOOOOwwXwwOwOOXOOOOOc*cc*coc*ccoco*c**co*c~''`</tspan>
+<tspan x="18" y="250.5">       ','-*cccccc**coxOwxOwxwwwwwwOwOOwc*ccocccoc**cc*cooco*o*ocooc*=,:'</tspan>
+<tspan x="18" y="262.2">       `::-cc*cocooo*cwxwxwwOwOOOwxwxwOwoccc*ccococc*ococc*cc**ccc*cc=','</tspan>
+<tspan x="18" y="273.9">       ':'-c***ccoco*oOXOOOXXOwOwOwOOOXOOXOOXXXOcc*cc*cc*co*cccooccco='':</tspan>
+<tspan x="18" y="285.5">       `:'~ccc*cccc*cowxxwxxwwxxxxxwwxxxwxOwwOwooo*ooco*oco*coo*c*occ=:,'</tspan>
+<tspan x="18" y="297.2">       `::-c*oOO####OXXOOOXOXOXOXOcc*c*cc*c*c**c*cc*cccoc*coc*cocc*oo~:,'</tspan>
+<tspan x="18" y="308.8">       `,'~*c*owxxxxxxxowowoxxwxxxcccccc*c*ocococococcc****co**c*occo+:':</tspan>
+<tspan x="18" y="320.5">       `,:=co**c*cOOOX#XXXXOXOXO#X#XXX#XO#XXXX##XXXXX#oc*o***cc*o*o*c~',`</tspan>
+<tspan x="18" y="332.2">       `:,-coco*occxoxxoooxooxxxoooxxxocxoxooxxxoxxoxoc*coocoo*co**oo~:::</tspan>
+<tspan x="18" y="343.8">       `::,=**+*c+cc+**c***c**cc***c+c+**cc**+c**c****+c+**c*c****+c+:,:'</tspan>
+<tspan x="18" y="355.5">        `:,:,,,-:-,:,,,,,:,-,,,-:-,,,,:-:,,,::-,:,,-,,:-,,,,,,::,:-,,:'`</tspan>
+<tspan x="18" y="367.1">           ``'.```.```'`'.'`'``.```:,----,-,,`'.````````````.```'`'``.</tspan>
+<tspan x="18" y="378.8">                                   -=~~~~--~-.</tspan>
+<tspan x="18" y="390.5">                                  ,~---~==~---</tspan>
+<tspan x="18" y="402.1">                                 '~=~~--==~~=~,</tspan>
+<tspan x="18" y="413.8">                                `~~=~~--~~~~=~~'</tspan>
+<tspan x="18" y="425.4">                                ,=-~~~~=~~~-~~~-.</tspan>
+<tspan x="18" y="437.1">                      ,:,:,,:,,~++~=~===+====+==~,,,,,,::,.</tspan>
+<tspan x="18" y="448.8">                     :c**cc+*c**+*++****+*++*c*c*cc*c*c+**-</tspan>
+<tspan x="18" y="460.4">              .``...``:---,~~-,-,----------~-,,---~~--~--,'...`.`.</tspan>
+<tspan x="18" y="472.1">             `----~~-~----~~=~=~~~~~=~=~=~==~=-=~==~--~--~=~-~--~,`</tspan>
+<tspan x="18" y="483.7">            `,----=xxo-cwx*~wOx=cOw*~www=+Owo~wOO=+wOo~*ww+~ooc,+**:</tspan>
+<tspan x="18" y="495.4">           .,:::,-~XXw-o#X*=#@X~o%@o-#%#=c%@w~X#%+*%%x,wXX==Owx,*xx+'       '':'</tspan>
+<tspan x="18" y="507.1">          `,:,:,,,~wOo-cXX+~X#O~o%#c~#%X=c%%x~O%%=+XXx-oXO~~wxx,*xw=:'    `--~~-</tspan>
+<tspan x="18" y="518.7">         `:''::':',~=~:-~~,,~==--=+--=++,-~=~-~=~--=~~:---,,---,-,-::'.   :~~,-,</tspan>
+<tspan x="18" y="530.4">                                                                          :-,-,,</tspan>
+<tspan x="18" y="542.0">                                                                          .,:,::</tspan>
+<tspan x="18" y="553.7">                                                                             ...</tspan>
+<tspan x="18" y="565.4"> </tspan>
+<tspan x="18" y="577.0"> </tspan>
+<tspan x="18" y="588.7"> </tspan>
+<tspan x="18" y="600.3"> </tspan>
+<tspan x="18" y="612.0"> </tspan></text>
+  </g>
+  <g id="faceG">
+<text id="v0" class="mono" xml:space="preserve"><tspan x="18" y="29.0">  ..   ......`....'``'''.''`':``.`..`'`.`,':,':',:::''':''''`':''``''`.`.``.....</tspan>
+<tspan x="18" y="40.7">   ..... ..``.````'''':'`':`.. ....`'``  ':,,:,::,:',:::'::':'''''''``'''``..`.</tspan>
+<tspan x="18" y="52.3">  .... ...`....`'':''''`:'`     ```.  `` ... ```...''':::::::':'::'':'''`.``.``.</tspan>
+<tspan x="18" y="64.0">  .``.`.`...``.'`':'`..'`.     .                     ``,,:::,:,,:::':::''````..`</tspan>
+<tspan x="18" y="75.6">`...`.`````.``.```.  `'                            ``':-,,,,:,:,,,:':::''`'``'.'</tspan>
+<tspan x="18" y="87.3">...``'`.'``:.  ...  .             .                   . `:--,,,-,:::,:,:':'''```</tspan>
+<tspan x="18" y="99.0">``...'''`'''                ..                        .   `:',:,-,,--,,:'':::'`'</tspan>
+<tspan x="18" y="110.6">'..'``:'``'.           .  ....                                .',-,,-,,:,:::,'''</tspan>
+<tspan x="18" y="122.3">``'``''''`'.                                  ` .  ..           `--~~~-:,,,,,:::</tspan>
+<tspan x="18" y="133.9">'::`'',':'..    .  .                             .    ..         .,~~-~----:,:::</tspan>
+<tspan x="18" y="145.6">':':'':,'`                                             .           :=~~~~,-,,,,:</tspan>
+<tspan x="18" y="157.3">'::'::::                                                             ,=~-~,---,,</tspan>
+<tspan x="18" y="168.9">::,::'.` .                ..`'',,----::::`                .`          ,~=-~--,-,</tspan>
+<tspan x="18" y="180.6">::-:,:                ..:-~++cooxwooxxococ*+~,:`. .                   '=~=~--,~-</tspan>
+<tspan x="18" y="192.2">,,-::' ..            ``~+=+cooxxxowwxOxwwxwwxxxc**=:.        ...      .====-=-~-</tspan>
+<tspan x="18" y="203.9">,-::''`              .-**oxoxwOwxOOwwwOwxwxwxwxoxcco+=`       .        `~++=~~~~</tspan>
+<tspan x="18" y="215.6">,---:-,`          `..:owwwwwwwwwOXXXOwOwwOXOOwwoxooc**=-             .'.-*+=~~~~</tspan>
+<tspan x="18" y="227.2">:--:::,'        ..'.:*owoxxxOOOOwwXOXXOOOwXOOOOwxxxo**++,'           .:--++~==~=</tspan>
+<tspan x="18" y="238.9">,--,,,,:     . `..`,*oooxoxxOXOOXXXOXOOOOOwOOwwOxxxxo++=~:.           ,+**+*====</tspan>
+<tspan x="18" y="250.5">:--,-,,:     . .  :*cc**+coxXXXX##XXXXOOXwwOwwOxxwxcc+==~:.         ..+cc++*====</tspan>
+<tspan x="18" y="262.2">--,~,-~:     .. `~c*=--~===~-,-~=+xXXX%##XXOOXXOwwx***+~=,          :+ccc*+**+=~</tspan>
+<tspan x="18" y="273.9">:,,--,,-       :co+==oxOwwOwx*--,--~cw#XXXO#OOwOwOOoo++--:        . ,ooo*+c++++=</tspan>
+<tspan x="18" y="285.5">':,,,::'      :***+*wooooowxxoc***xxxxO#OOwOo*=~,,,,-+~,:'        .`=xco**c*====</tspan>
+<tspan x="18" y="297.2">:':::,.  `   .=*+cooo*+=~~=~~-~==+*xwX%XOOwo+~-:':'::'.`..       .'cxoooc**+*+++</tspan>
+<tspan x="18" y="308.8">,:'::,'-::`  ,**xowox*~-~~-,,-~,=coowXXOxo~:',-+*cocco*~       `-~owxoooc*+**=+=</tspan>
+<tspan x="18" y="320.5">,-:::-oO*-' `+ooxOwwOOwwxOOwxo**cxxwwOXOw+'':=++*c*+*=*='    ,+ooooxxooccccc***=</tspan>
+<tspan x="18" y="332.2">:,:',*wOOO= ~*cwOOwwOXwXOOOXwwOxwwOOOXOOw+',-=~'```,-::-`   ~xxwxoxoxxxcocc***++</tspan>
+<tspan x="18" y="343.8">',::,xxO#Oo`=coxOXXO#XXOOOOOXOXOxxxwwOO#O+,,**c**--: .':`  -wooxoooxoxococc+++==</tspan>
+<tspan x="18" y="355.5">',:'-xOoOXw:=cxwwO#XX##XX%%%%XXOXXX#OX%%w*~-*xoocc+~=-~-` `owxxxowxxoxco*o*c*+++</tspan>
+<tspan x="18" y="367.1">-=~~=xoxOXx,=cwOOOOXX%%@###X##wO+-+x%@##Xx*++owxxoxoco+~` .+wxxxoooxoxoc***+*+=+</tspan>
+<tspan x="18" y="378.8">~-,-~*OwOwc,=oowwwOX###%X###XOxoc=*cxOXx*,,**xooxxoxo**-`  .'oxoxwxooocc*c+*=+==</tspan>
+<tspan x="18" y="390.5">:-,,,-+oOwo-=oxxwwOOX##XX#XXXwwxwXXx*~,`.'==:oOOxwxcoc+,.    `xwooooxco*cc***+=~</tspan>
+<tspan x="18" y="402.1">''':':,:~-`-*cxxxwOOwXOwXwwxwxxwXxoxo**-=+=~cwwxxwoco*~'.     ,ooccooccc*c*+==~=</tspan>
+<tspan x="18" y="413.8">'`'::',:::`~*oxwwxOOOwxwoxwxoxxwwwwxxxcoocwwwxxwxoxc+=,       :ccocc+*+=++=+++~~</tspan>
+<tspan x="18" y="425.4">'.'`:,:'::'~*ooooxwOwXOwo*+++++*cooo****o*c*xooxoo*+--`:.     ,c*+*+=+=+=+==~=-~</tspan>
+<tspan x="18" y="437.1">`.'''''`:'`,*ccxoxwOXOOO#Oxoxxxxxooc**==,+c*+****c=--`'.     .-*+==~~~~~~=~----,</tspan>
+<tspan x="18" y="448.8">.`.''`'````:=++xoocoOOwOO#OOwOxOwOwwoc*+--+*+*c*+=~-,`.       ,====~~~----~~-,,-</tspan>
+<tspan x="18" y="460.4">`...''``'`,-,~=*cccoxwxwwOOOOwOOOxxwxo*++*xc**++~,--`        .,-~---,,-,-,-,,,-,</tspan>
+<tspan x="18" y="472.1">```..`..`.-+,':-=c*coxxxOwOX##Owocooocc***ccc*=--~-`          ,::,::,:':::::,:',</tspan>
+<tspan x="18" y="483.7"> ``...``.'~=+~:',=~+*cxoowOXXOXOOwwwxxoo*cc+=~-,-:'         .`:::`'':''''':'''::</tspan>
+<tspan x="18" y="495.4">.......` :~==+=-:'::-+*xowxwXXOwXwxxxxocc+=~:,,:`            .''`'```''''``':'``</tspan>
+<tspan x="18" y="507.1">  . .... ,~=~+=+~~,.``-==*coooccwwxocc**=-'``.              .. .....`.```'```'`.</tspan>
+<tspan x="18" y="518.7"> .  .   .,~~==~+=++~,`..'`,--~=~+=**~-,,`.                  ...     .  ``..`..`.</tspan>
+<tspan x="18" y="530.4">        ',-~==~++=++=~-'.    ...`.`` .                     . .  . ..       .....</tspan>
+<tspan x="18" y="542.0">       .,,,-~~====+~~-==-,''.             . `                  .`.     .... .</tspan>
+<tspan x="18" y="553.7">       .',,,~~~-~~=~~=~~~=-~-,,:':' ..   `...                `..```.`.</tspan>
+<tspan x="18" y="565.4">        :::,~~~~--~=~~~~=====+==~,,,'::::':'`                `.```...`..</tspan>
+<tspan x="18" y="577.0">        `:::,--~---~---==~-~==~,,--,~~~~~~,'               ..``...``...`..</tspan>
+<tspan x="18" y="588.7">         ',',,,-,~---,---,--~-:,,,~,~-=-~-''                 ..`...`.....      .</tspan>
+<tspan x="18" y="600.3">         .`'''::,--,,-,,--,:,:::-~-~~--~-'`..                     .    ....    .</tspan>
+<tspan x="18" y="612.0">          ``::':',,,,,::,,,:,--,,--,,,,,'''``.                         ..   .</tspan></text>
+<text id="v1" class="mono" xml:space="preserve"><tspan x="18" y="29.0">    . ... ...` ``.```''``'''```..`.`'``.`:'':''::::::'::''':':'````'`````.......</tspan>
+<tspan x="18" y="40.7">.. .....`.`..`.`'''`'`:''':'`......````..':,,',,:,',:,''::'':':`:'```'`.```. ..</tspan>
+<tspan x="18" y="52.3"> .      ` ...`.'`''`':`:''.    .`..    ..''` .````.``',,:,'':,':::''''```````.`.</tspan>
+<tspan x="18" y="64.0"> . ......``.`'.`':'`. .`'.     .                   .  `:,,,,:,,::::'::'''`''.```</tspan>
+<tspan x="18" y="75.6">..```..`.'``'`..'`.  .'.                           .`::,~,,,,:::,:,:':'`::''`''`</tspan>
+<tspan x="18" y="87.3">..`.``````::`  `..   .                  .             ..`:,-,,,--,::,:,:'''':```</tspan>
+<tspan x="18" y="99.0">````.``'.''`                .      .                  .   `::,,,,,-,--::,::'':'`</tspan>
+<tspan x="18" y="110.6">.````':'``'.              ..                 .                 `,--,-,,,:,,::'`'</tspan>
+<tspan x="18" y="122.3">'```':':'''`        . .                       . ..              '~~--,-,,:,,,:::</tspan>
+<tspan x="18" y="133.9">::''':::::..    .                                 .  ...         `,-~--,,,,::::'</tspan>
+<tspan x="18" y="145.6">:'::`':,,`                                            ..           '~=~,-,-,,:::</tspan>
+<tspan x="18" y="157.3">::'',::'                                                     .      .,~-~----,-:</tspan>
+<tspan x="18" y="168.9">::,:::`'                   `.''-,~~--',,:``               ..          ,=~~~,-,-:</tspan>
+<tspan x="18" y="180.6">,--:'' ...           ..`:,~+=coxoxowxxoocc*+~,':`.                    :+=~=~----</tspan>
+<tspan x="18" y="192.2">,:,,,'               .:=~=cccowwxwwOwwwxwxwxxxocc*~,`                 `-~==~~--,</tspan>
+<tspan x="18" y="203.9">:,,::,`             ..-*cocxowwOwOOOwOOwwOwxxwwoococ*~'       ..      .`~~=~=~,-</tspan>
+<tspan x="18" y="215.6">--~,-,-`          `..,owwxwxwxxwOXOOwOwOwOOOwxxwxcocc*=:.             ' -*=====~</tspan>
+<tspan x="18" y="227.2">:,-,:::`         .``'*oowxxwOxOwOXwOOXwOOOOXwwOOwxxoc*==-`           .',-*++==-~</tspan>
+<tspan x="18" y="238.9">-------,       `. .,+oxxoooxOwwXXXOXOXwOOwOOwwwOwxxoo*=+=:.           :++*=++~~~</tspan>
+<tspan x="18" y="250.5">,---,-~,        ..:*coc*c*cwwXXX##%XX##XXXOwOwwwxwoo*+++~,          . +o++*==+~~</tspan>
+<tspan x="18" y="262.2">--,~,,-,.       `=c*=~--++==,,,~==wO#%XXOXXOOOwwwxxc+*==='          :+o*+*++==+~</tspan>
+<tspan x="18" y="273.9">:---,,,-.      ,+cc~+*wOwwOwo*-,,,-~cx#XO%OOOXwwOwwx*+=~~:          ,x*o****++==</tspan>
+<tspan x="18" y="285.5">':::-,::..    :*c++cwxxxoowwwxcc**ooowO#XXOwo*=,:::'~+~,,`       .`.+ococc**==+~</tspan>
+<tspan x="18" y="297.2">,',::,. `..  .~*c*oooc=~~~~==~==++cwOO##Owxo*~-::`'::'' '`       .,+wocc*c**+*=~</tspan>
+<tspan x="18" y="308.8">:,::,,`~,:  .,+cooxwx*-,~~-::-~,~*ccOOOwOo~,,:-+**ccoo*-.       ,~cxxococ***++++</tspan>
+<tspan x="18" y="320.5">,,':,,cX+~: `**owxxxOOOwwOwwxoc*coooOwOwxc':-==+*c*+=*+~'    ,=coxoooooocc+*+==+</tspan>
+<tspan x="18" y="332.2">':',,+OXOO+ -*ooOwwOXOXOXOXXwxwwwxwwOOOOw*'--~=::`:'-::-`   =xxxxxxxwoococ***+==</tspan>
+<tspan x="18" y="343.8">','::cwOXOx'~*oxwOOXOXXOX#OO##OwxxwxXX##w=:~=+**+--:. :,.. :ooowooxoxxocoo*c*+=+</tspan>
+<tspan x="18" y="355.5">::`:,cOoX%x,~oxxXO##X#XX%X%%XXOwOOXOX#%Xwc-~+oxoc*==~~~,` .owxxxoxxxxxxcooc*++==</tspan>
+<tspan x="18" y="367.1">-~=~=xwwOXo-~cwxwOXO##%%X%%X%#ww+,+x#%%%Xx*=ccwxxxccoc+-' '+owowoxxxxooo******+=</tspan>
+<tspan x="18" y="378.8">-~-,-*wOOwo,=oowOwXOOX%%X###XXwc*=*oxwwO+:~**xowoxcoo*+~`  .'xoxxxoooooc**cc++++</tspan>
+<tspan x="18" y="390.5">,,,--,+xxX*-+oxowwOXXXX#%XXOOOOwwOOO*=-` `=~,xwxwwoocc*,.    `xwxxxoxo*c**++++=+</tspan>
+<tspan x="18" y="402.1">::',::,,-=',*owxxwOXwX#wwwOwwOxwXxooxc+~=*+=owxwxxocc*=.      ,xoxxoccc*++++++~=</tspan>
+<tspan x="18" y="413.8">`.`''`:',:.-+oowxwOOOwOxwoxxxoxwwOxxwxxc*cxxxxxwwoc*++:       'xo**c***++*===~~~</tspan>
+<tspan x="18" y="425.4">'''':::::'`~*cxwxxxwXwwxc*==+*+*ooccc**cooccoxxooo**~-`:.     ,*+c****++~=~~~~~-</tspan>
+<tspan x="18" y="437.1">.``'':''''`~=ooxwowxOXXOOOOoxoxoxooc**==-+c++cco*c+~-'``     .,*+=+=~===~~~~~,,-</tspan>
+<tspan x="18" y="448.8">`.`'``:``:',~++ooocxOOOOOXOOOwxOXOOwxcc+~,*o++***+,~-`.      .-==~===~~~-~~----,</tspan>
+<tspan x="18" y="460.4">```..'`'`.,,:-=*occoxxOxwXXXwwOwxOxxoc*+**cc+c+=--~~`         --~-~-,--,,-,,::-,</tspan>
+<tspan x="18" y="472.1">....```.'`-=:`,=++*cxowwwOOOOXXXxxoooxc*cocco*~,,,~`          ,,,-:,,:::,:,::,,:</tspan>
+<tspan x="18" y="483.7"> `.`.`...'~=+~'''=+=cooxwwXX#XOXOwxoxoc*****+--,-,`          ':'''''::':'''':'::</tspan>
+<tspan x="18" y="495.4">.......  :~~=*+~:':,-=oocxwwOOXwXOOwooc*++=-::,:'.           ''``''``'``:`''``'`</tspan>
+<tspan x="18" y="507.1">   .  . .,~==+++~~,`.`,~=*ccxocoowxo*o**=-'```.              .`......`.`..''.```</tspan>
+<tspan x="18" y="518.7">    ..  `,-==++++*=~:`..'`,--==+=*+*=-,:`..                 ` .........  ....`..</tspan>
+<tspan x="18" y="530.4">    .   :,,--~=++==+~=,'    .```'``. .       .              .  . ...  . ..  .`.</tspan>
+<tspan x="18" y="542.0">        ,-~-~~~===~~=~-=~:''`.             ..                 .`.`  .     .  .</tspan>
+<tspan x="18" y="553.7">        :,,,~~==~====~==~~-~-,::::'...  .....                `.`.`.` .     .</tspan>
+<tspan x="18" y="565.4">       .',,-,-~~-~=~~~~~~=~~++==~,-::,:::,,'.               `.`...`.. ..</tspan>
+<tspan x="18" y="577.0">        ''::--,-~-~=--~~-=~=+=~--,-----=---'               .`.``.` ....` .</tspan>
+<tspan x="18" y="588.7">         ',:::,,-,---,,~~~,--,,:,---~-==-,'`               ... .``.`. ` .</tspan>
+<tspan x="18" y="600.3">         `::''',:-,---,-,---,::,~-,-~-~-,,'`.                       .... ..</tspan>
+<tspan x="18" y="612.0">          .`:':':::,--:,,,,-,--,,,-,,,,,::``..                          ....  .</tspan></text>
+<text id="v2" class="mono" xml:space="preserve"><tspan x="18" y="29.0">     .... . `.....```'```'``'`'.`.````'`.:,',:::,::,:':::'`'```'``'`'`.```.....</tspan>
+<tspan x="18" y="40.7">   .  ..`.`.```.''`'''`'``''`  . . .`'`. `:,,':,,:,:,:':'''::`''''``'.```.......</tspan>
+<tspan x="18" y="52.3">... .`. .```..``'`''`:'''``     ``.. ...``'. `.'...'`',,:::':,::'':'`::`'''..`.`</tspan>
+<tspan x="18" y="64.0">`....`.``..```'''':`..`'`.                .          .::,,,,::,:':''`':'''''`.``</tspan>
+<tspan x="18" y="75.6">`````.```.'``' .`'`  `'                             ':',,~,-:-:,,,:',''':'''```'</tspan>
+<tspan x="18" y="87.3">` .`.....``:.  ..   ..             .                    `,-~-,,-,,:::,:::':'`'`.</tspan>
+<tspan x="18" y="99.0">..``````.':'                 .                            ':,::--,-:,,,:,''':'''</tspan>
+<tspan x="18" y="110.6">'````''''``.              . .                                  `,--~,,:,,:::,'':</tspan>
+<tspan x="18" y="122.3">`''`':,:''`.          .                      .`    .            `-~,,---,,:,:'''</tspan>
+<tspan x="18" y="133.9">:''''''::'`.    .   ..                            .              .,~-~,-,,-:,,::</tspan>
+<tspan x="18" y="145.6">:'''''::'.                                             .          .,~~=----,-,,,</tspan>
+<tspan x="18" y="157.3">::::':',.                                                 .          ,~~~---,-:,</tspan>
+<tspan x="18" y="168.9">':,:::.:                 ....`:,,--,-::,'..                .          -=--~,--:,</tspan>
+<tspan x="18" y="180.6">::,,:' .               `':==+*oocxxoxxccco+=-,''.                     `=~~~~----</tspan>
+<tspan x="18" y="192.2">:,-,,'..             `'~++cooxwxxxOOxOwxwwwwoxooc*='`                 `~+=~~=-,-</tspan>
+<tspan x="18" y="203.9">:,::''`            . `,+oxoxoxwwwwOwwOOOOwOwOwwooooc*-`       .        `=+~==~--</tspan>
+<tspan x="18" y="215.6">--,-,,,.         ..`.,*wwwOwwwwOOOXOOOwOwwwwOxxxxcoc+++:.            .`.-==~===~</tspan>
+<tspan x="18" y="227.2">:,-,::,`         .``,cowxwwxxxOOwOwOwwOXXOOXwOwwxxocc**~-'.           ':,+=+=~==</tspan>
+<tspan x="18" y="238.9">,,,---~:          .,**xooxxwOOOOOXXOOOwOwXOwwOwwwxwoc++~~:            :***=+====</tspan>
+<tspan x="18" y="250.5">,,,--,-:   .      ,+occ++*cwOXX#XXX#XXOXOOXwOOxOwwoocc==~:           .=*+*+*++==</tspan>
+<tspan x="18" y="262.2">:,-,,~~:        .=**+---~~=-,:,~~+oOOXXXOXOOXXOwOxx**++==:.         ,*coc***==+~</tspan>
+<tspan x="18" y="273.9">:,~,,,-,.      'cc*==cwOwwOwx+-::,-~*w#X#X#XXOOOwOOoc*=-,:          :ooccc+*++==</tspan>
+<tspan x="18" y="285.5">'',,,,-'      :**+*coxxxxxxxxxoc*coxxxXXOXOxo*+,::::-=~::'       .`'=ococ***++==</tspan>
+<tspan x="18" y="297.2">::':,:` ...   =c*cccc*+=~~==-~~~*ccowX##Oxoc+~-:::'::'`..`       .'*wcccocc*+++=</tspan>
+<tspan x="18" y="308.8">,,':,,'~::.  ,*cxxwwx*~,~~,,:--:=*ccwO#Owc=::,-=cooccc+~.      .:=cooooco****+=+</tspan>
+<tspan x="18" y="320.5">,,:::-oX+~' `=ooxwxwXOwwowxxxoc**oxxOOXOwc``,~+ccc*+++=='    :=*xowxoxcoocc***++</tspan>
+<tspan x="18" y="332.2">:,,,,+xO#w+.~coxOwwOXOX#OXwOOxxOwxOwOOXXO=`~:~=:`.',:::-`   =xxooxoxooocc*c**+==</tspan>
+<tspan x="18" y="343.8">,:':-oxXOOo'=coxwXOXOXXXOO##OOOXwwwwOX#Xw+,-+cc*+~,:  `:.  :xwxoxxoxxxoc*oc**+==</tspan>
+<tspan x="18" y="355.5">'::`-oOowXw:=oxOwOOO#X#XXX%X%%XOXXX####XOo,-+xwoc+==~~--` .xoxoxxxxxoxcoc*c+++==</tspan>
+<tspan x="18" y="367.1">-~-~+xoxOXx,~*xxOOOX####%%%#%#OO*-=o%##%#w*~*oxoxxcooc+-` .=xoxwoxxxoccoo*+**+=~</tspan>
+<tspan x="18" y="378.8">-~,,~*wwOwo,=oxxwOOO#XXX#%X###wo+=+*xwOw=,,**xoxwxoxxc*-.   :owxowxxocc*c*c*+++=</tspan>
+<tspan x="18" y="390.5">,,-:-,*oOO*-=coxxwOOXX##X#X#OOOOOOXO*~-` '==,cOwwoxxoc*,.    `xxoxxxcccccc*+*==+</tspan>
+<tspan x="18" y="402.1">'''':::,-~`-+cxwwwOOOOXwOOxwwwwwwxccoc+-=+=+*wwxwxwocc+`      ,oxoxo*o**++++==+=</tspan>
+<tspan x="18" y="413.8">:.'''`:'':.=*cxxoxOwwwOxxowwwxoxOxwwxocccooxxoxwxxo**=,.      :co**o***+++====~=</tspan>
+<tspan x="18" y="425.4">`'`'':::::.~+ooooxxOwwOwc+==*+*+cco***+coc**xxxcooc+~-.`.    .:*+c+=*==+=~~==~~~</tspan>
+<tspan x="18" y="437.1">``'`:':`':`~=*xxxowwOOOOXOxxxwoxxoox**==~+**ccccc*+~-`'`     `,++++~~=~-==~~-~~-</tspan>
+<tspan x="18" y="448.8">``''`'''':',=*+xocxoOOXOX#OOOOxOOwwxoo*+=-=c**+c*+,,,`.      .,~===~~-~~--,,-,,-</tspan>
+<tspan x="18" y="460.4">..'...```.,,:==*ocoxoxOOOXXOOOOwwOOxxo***coc+c**--~~`        .---~,,---,-,,:,,:,</tspan>
+<tspan x="18" y="472.1">`..`..'```-*,',=+*cccowxwOOXXXOOxxxxxocooco*cc=-,--'         .,-,,,:,,,::,:,'::,</tspan>
+<tspan x="18" y="483.7">.`.`..````=*=~:`:~=**coxwxXOXXOXOwxwwxoo**c+=~-,-:'          ',,::'':'':::'::'':</tspan>
+<tspan x="18" y="495.4"> ..`..`..'~~=+=-:'':~=*ooxwOOXOXXXwxooo*++=--,:'`            ``'`'`..`'`''`':``'</tspan>
+<tspan x="18" y="507.1">  .  ... :~~====+-:`.:-==c*oxo*oowwoc*c++-:```              ...`..  .```.``.'```</tspan>
+<tspan x="18" y="518.7">.     . .,==+==++===:'..``',--~=+=+++~-,' .                 ....    .. ... ...``</tspan>
+<tspan x="18" y="530.4">    .   '-~~~===+++=~=-:`    ..`'```.                        ..    ....   .....`</tspan>
+<tspan x="18" y="542.0">       .::,~-=-~===~==~~~:''..            .....               ` ....     .    ..</tspan>
+<tspan x="18" y="553.7">        ,,,,-=~-~~~~-~=~~==~,,:''```.   .```.                .`.```..     .</tspan>
+<tspan x="18" y="565.4">       .:,:-,--~~==~-=~~=~~+==~~~-,,::,::,::`               `...```..`    .</tspan>
+<tspan x="18" y="577.0">        `::,,-,~--~~-=~~~-~=+~~-,------~~~-`               .`.` .. .`.....</tspan>
+<tspan x="18" y="588.7">         `::,,-,,,-~~~-~-,-~--,,---~~~~~~-'`.                 .  ``. `.  ..</tspan>
+<tspan x="18" y="600.3">          ':':::,::----,----:,,,,--~~~,~,:'.                         ... ..</tspan>
+<tspan x="18" y="612.0">          .'':::,:::,,,,,,,-,-----~,,-,:::`'.                         .</tspan></text>
+  </g>
+  <line x1="169" y1="622" x2="395" y2="622" stroke="url(#g)" stroke-width="1" opacity="0.35"/>
+  <g clip-path="url(#type)">
+    <text class="name" x="152.8" y="650.4" xml:space="preserve">&gt; aeshvarya awasthi</text>
+  </g>
+  <rect id="cursor" x="413.2" y="632.4" width="11.3" height="21" fill="#3b82f6"/>
+</svg>

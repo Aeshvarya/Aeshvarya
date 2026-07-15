@@ -23,20 +23,15 @@
 
 <br/>
 
-<!-- ═══════════════════════ ASCII IDENTITY ═══════════════════════ -->
-<div align="center">
-  <img src="assets/animation.svg" width="440" alt="Aeshvarya Awasthi — live ASCII portrait" />
-</div>
-
-<br/>
-
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 ## ⚡ The short version
 
 <div align="center">
-  <img src="assets/code.svg" width="660" alt="class Aeshvarya — typed out" />
+  <img src="assets/code.svg" height="300" alt="class Aeshvarya — typed out" />
+  &nbsp;&nbsp;
+  <img src="assets/animation.svg" height="300" alt="Aeshvarya Awasthi — live ASCII portrait" />
 </div>
 
 <br/>

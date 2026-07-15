@@ -1,32 +1,32 @@
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=AESHVARYA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20IIT%20Jodhpur%20%C2%B7%20Creator&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=220&section=header&text=AESHVARYA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20IIT%20Jodhpur%20%C2%B7%20Creator&descSize=18&descAlignY=55" />
 
 <!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/Aeshvarya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=I+build+AI+that+actually+ships.;LLM+pipelines+%C2%B7+RAG+%C2%B7+Agents;Full-stack+%E2%80%94+Next.js+%C2%B7+React+Native;31K+people+watch+me+build+on+YouTube;Outputs+%3E+Consumption." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=I+build+AI+that+actually+ships.;LLM+pipelines+%C2%B7+RAG+%C2%B7+Agents;Full-stack+%E2%80%94+Next.js+%C2%B7+React+Native;31K+people+watch+me+build+on+YouTube;Outputs+%3E+Consumption." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aeshvarya-awasthi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" />
   </a>
   <a href="https://www.youtube.com/@zackvlogs24">
-    <img src="https://img.shields.io/badge/YouTube-31K+_subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-31K%20subscribers-8B5CF6?style=flat-square&logo=youtube&logoColor=white&labelColor=161b22" />
   </a>
   <a href="mailto:aeshvarya310305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20hi-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aeshvarya&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Aeshvarya&style=flat-square&color=8B5CF6&labelColor=161b22&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
-## ⚡ The short version
+<!-- ═══════════════════════ SHORT VERSION ═══════════════════════ -->
+<img src="assets/brand/h-short.svg" height="52" alt="The short version" />
 
 <div align="center">
   <img src="assets/code.svg" height="300" alt="class Aeshvarya — typed out" />
@@ -36,74 +36,68 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ BUILDING ═══════════════════════ -->
-## 🚀 What I'm building
-
-|     | Project | What it is |
-| --- | ------- | ---------- |
-| 🧠 | **AutoSetter** | AI-powered DSA problem setter — embeddings + vector search to kill duplicate problems, real-time collab via WebSockets |
-| 🏠 | **3D Property Tours** | Video → Gaussian-splat pipeline for real-estate walkthroughs |
-| 🌌 | **3D Portfolio** | Three.js galaxy + GSAP scroll-driven storytelling |
-| 🤖 | **AI Automations** | LLM pipelines & agent loops on the Claude API + LangChain |
+<img src="assets/brand/h-building.svg" height="52" alt="What I'm building" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+| Project | What it is |
+| :------ | :--------- |
+| **AutoSetter** | AI-powered DSA problem setter — embeddings + vector search to kill duplicate problems, real-time collab over WebSockets |
+| **3D Property Tours** | Video → Gaussian-splat pipeline for real-estate walkthroughs |
+| **3D Portfolio** | Three.js galaxy with GSAP scroll-driven storytelling |
+| **AI Automations** | LLM pipelines and agent loops on the Claude API + LangChain |
 
-<!-- ═══════════════════════ TECH ═══════════════════════ -->
-## 🛠️ Arsenal
+<br/>
+
+<img src="assets/brand/divider.svg" width="100%" alt="" />
+
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
+<img src="assets/brand/h-arsenal.svg" height="52" alt="Arsenal" />
 
 <div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" />
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs&theme=dark" />
-
-**Backend, DB & AI**
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,express,nodejs,git,vercel&theme=dark" />
-
 <br/>
 
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Systems-4A00E0?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,nextjs,react,tailwind,threejs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,git,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude%20API-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/RAG%20Systems-8B5CF6?style=flat-square&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Expo-8B5CF6?style=flat-square&logo=expo&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Streamlit-8B5CF6?style=flat-square&logo=streamlit&logoColor=white&labelColor=161b22" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 Proof of work
+<!-- ═══════════════════════ PROOF OF WORK ═══════════════════════ -->
+<img src="assets/brand/h-proof.svg" height="52" alt="Proof of work" />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aeshvarya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=00C9FF&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshvarya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E2DE2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aeshvarya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=3B82F6&text_color=8b949e&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeshvarya&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aeshvarya&theme=tokyonight&hide_border=true&background=0d1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshvarya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true" />
+  <img src="https://streak-stats.demolab.com?user=Aeshvarya&hide_border=true&background=0d1117&stroke=8b5cf6&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7&sideLabels=8b949e&dates=6b7280&currStreakNum=e6edf3&sideNums=e6edf3" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aeshvarya&hide_border=true&bg_color=0d1117&color=A855F7&line=3B82F6&point=C084FC&area=true&area_color=8B5CF6" />
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeshvarya/Aeshvarya/output/github-snake-dark.svg" />
@@ -114,38 +108,36 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ CREATOR ═══════════════════════ -->
-## 🎥 The other side of me
+<img src="assets/brand/h-creator.svg" height="52" alt="Beyond the code" />
 
-I don't just write code — I document the whole journey. **31K+ people** watch me grind, build, and level up in public.
+<br/>
+
+I don't just write code — I document the whole journey. **31,000+ people** watch me grind, build, and level up in public.
 
 <div align="center">
   <a href="https://www.youtube.com/@zackvlogs24">
-    <img src="https://img.shields.io/badge/▶_Zack_Vlogs-The_journey,_documented-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zack%20Vlogs-The%20journey%2C%20documented-8B5CF6?style=flat-square&logo=youtube&logoColor=white&labelColor=161b22" />
   </a>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════ QUOTE + FOOTER ═══════════════════════ -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Discipline%20is%20choosing%20between%20what%20you%20want%20now%20and%20what%20you%20want%20most.&author=Abraham%20Lincoln" />
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
+<em>"Discipline is choosing between what you want now and what you want most."</em>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Thanks+for+scrolling+all+the+way+down.;Now+go+build+something." alt="footer typing" />
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+all+the+way+down!;Now+go+build+something.+%F0%9F%9A%80" alt="footer typing" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:4A00E0,100:8E2DE2&height=140&section=footer" />

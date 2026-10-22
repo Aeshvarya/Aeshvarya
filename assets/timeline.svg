@@ -20,7 +20,7 @@
     <circle cx="525.7" cy="150" r="9" fill="url(#g)" stroke="#c4b5fd" stroke-width="2"/>
     <text x="525.7" y="202" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="2" fill="#a78bfa">SEP '26</text>
     <text x="525.7" y="224" text-anchor="middle" font-size="17" font-weight="900" fill="#e6edf3">Hired</text>
-    <text x="525.7" y="243" text-anchor="middle" font-size="12.5" font-weight="500" fill="#8b949e">Paid intern, Kaya AI</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.35s" fill="freeze"/>
+    <text x="525.7" y="243" text-anchor="middle" font-size="12.5" font-weight="500" fill="#8b949e">Engineering intern, Kaya AI</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.03s" dur="0.35s" fill="freeze"/>
     <line x1="674.3" y1="150" x2="674.3" y2="110" stroke="#8b5cf6" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="3 3"/>
     <circle cx="674.3" cy="150" r="9" fill="url(#g)" stroke="#c4b5fd" stroke-width="2"/>
     <text x="674.3" y="58" text-anchor="middle" font-size="12" font-weight="800" letter-spacing="2" fill="#a78bfa">OCT '26</text>

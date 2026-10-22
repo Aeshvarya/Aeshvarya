@@ -84,11 +84,11 @@ def stats():
     # (prefix, target, suffix, label, sub)
     cards = [
         ("#", 2, "", "OUT OF 1,460", "Kaya AI national hackathon"),
-        ("₹", 100000, "", "PRIZE MONEY", "won live in front of the judges"),
         ("", 4, "", "UPSTREAM MERGES", "Docling ×3 · PyBaMM ×1"),
         ("", 69, "K★", "BIGGEST REPO MERGED INTO", "Docling by IBM Research"),
         ("", 1165, "", "CONTRIBUTIONS", "in the last 12 months"),
-        ("$", 300, "/mo", "PAID INTERNSHIP", "US startup, hired in 2nd year"),
+        ("", 4, "", "PRS IN REVIEW", "mesa · PyBaMM · Prowler"),
+        ("", 3000, "", "MONTE-CARLO PASSES", "behind every Foreman forecast"),
     ]
     W, CW, CH, GAP = 1200, 373, 150, 30
     rows = []
@@ -107,13 +107,7 @@ def stats():
         for k in range(frames + 1):
             t = k / frames
             v = round(tgt * (1 - (1 - t) ** 3))
-            txt = f"{pre}{v:,}{suf}" if tgt >= 1000 or pre == "₹" else f"{pre}{v}{suf}"
-            if pre == "₹":  # Indian digit grouping: 1,00,000
-                d = str(v); head, tail = d[:-3], d[-3:]
-                groups = []
-                while len(head) > 2:
-                    groups.insert(0, head[-2:]); head = head[:-2]
-                txt = "₹" + ",".join(([head] if head else []) + groups + [tail]) if len(d) > 3 else f"₹{v}"
+            txt = f"{pre}{v:,}{suf}" if tgt >= 1000 else f"{pre}{v}{suf}"
             b = start + 0.25 + k * dt
             hide = "" if k == frames else f'<set attributeName="visibility" to="hidden" begin="{b + dt:.3f}s"/>'
             g.append(f'<text x="{x + 44}" y="{y + 68}" font-size="50" font-weight="900" fill="url(#g)" visibility="hidden">{escape(txt)}'
@@ -139,7 +133,7 @@ def timeline():
         ("AUG '25", "IIT Jodhpur", "B.Tech, Chemical Eng."),
         ("JAN '26", "PulseBoard", "Backend lead, team of 6"),
         ("AUG '26", "2nd / 1,460", "Kaya AI national final"),
-        ("SEP '26", "Hired", "Paid intern, Kaya AI"),
+        ("SEP '26", "Hired", "Engineering intern, Kaya AI"),
         ("OCT '26", "Docling merge", "First upstream PR in"),
         ("OCT '26", "PyBaMM merge", "GSoC org, merged"),
         ("OCT '26", "Mender", "Co-founded a startup"),

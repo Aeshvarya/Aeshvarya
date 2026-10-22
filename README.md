@@ -5,7 +5,7 @@
 <div align="center">
   <br/>
   <a href="https://github.com/Aeshvarya">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+systems+that+ship.;2nd+of+1%2C460+at+the+Kaya+AI+national+hackathon.;Merged+into+Docling+(69k%E2%98%85)+and+PyBaMM.;Paid+engineering+intern+%E2%80%94+in+2nd+year.;Co-founding+Mender.;Outputs+%3E+Consumption." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+systems+that+ship.;2nd+of+1%2C460+at+the+Kaya+AI+national+hackathon.;Merged+into+Docling+(69k%E2%98%85)+and+PyBaMM.;Engineering+intern+at+Kaya+AI+%E2%80%94+in+2nd+year.;Co-founding+Mender.;Outputs+%3E+Consumption." alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="assets/stats.svg" width="100%" alt="#2 of 1,460 at the Kaya AI hackathon · ₹1,00,000 prize · 4 upstream merges · 69K★ biggest repo merged into · 1,165 contributions · paid internship" />
+<img src="assets/stats.svg?v=2" width="100%" alt="#2 of 1,460 at the Kaya AI hackathon · 4 upstream merges · 69K★ biggest repo merged into · 1,165 contributions · 4 PRs in review · 3,000 Monte-Carlo passes" />
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 `1,460 participants` → `20 shortlisted` → `10 finalists` → **`2nd`**
 
-A team of two against teams of four. Presented **Foreman** live on the deployed app, not a recording, to judges from **Google, OpenAI, Meta** and the Kaya CEO, and took every question. **₹1,00,000 prize.**
+A team of two against teams of four. Presented **Foreman** live on the deployed app, not a recording, to judges from **Google, OpenAI, Meta** and the Kaya CEO, and took every question.
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ A team of two against teams of four. Presented **Foreman** live on the deployed 
 ### Hired by the company that ran it
 **Engineering Intern · Kaya AI** (US startup)
 
-Paid, remote, from September 2026, while in 2nd year. I ship into a production codebase and stand up daily with the US team.
+Remote, from September 2026, while in 2nd year. I ship into a production codebase and stand up daily with the US team.
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Owned the backend: IMAP email pipeline → Gemini event extraction, TOTP 2FA, JW
 
 <br/>
 
-<img src="assets/timeline.svg" width="100%" alt="Aug '25 IIT Jodhpur → Jan '26 PulseBoard → Aug '26 2nd of 1,460 → Sep '26 hired at Kaya AI → Oct '26 Docling merge → Oct '26 PyBaMM merge → Oct '26 co-founded Mender → next: GSoC 2027" />
+<img src="assets/timeline.svg?v=2" width="100%" alt="Aug '25 IIT Jodhpur → Jan '26 PulseBoard → Aug '26 2nd of 1,460 → Sep '26 hired at Kaya AI → Oct '26 Docling merge → Oct '26 PyBaMM merge → Oct '26 co-founded Mender → next: GSoC 2027" />
 
 <br/>
 

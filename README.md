@@ -18,6 +18,13 @@ I like problems where the answer has to be right, not just plausible.
 <br><br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signal-dark.svg">
+  <img src="assets/signal-light.svg" width="100%" alt="Signal: my GitHub contributions over the last 12 months, as a dot grid.">
+</picture>
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
   <img src="assets/oss-light.svg" width="100%" alt="Open source">
 </picture>
@@ -69,5 +76,5 @@ A phone video of a house becomes a 3D walkthrough in the browser.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="Outputs over consumption.">
+  <img src="assets/footer-light.svg" width="100%" alt="Outputs over consumption. Systems that ship. Built from IIT Jodhpur.">
 </picture>

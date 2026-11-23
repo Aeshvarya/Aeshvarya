@@ -156,7 +156,7 @@ STATS = [
 ]
 
 GLOBE = dict(cx=808, cy=236, r=156, tilt=math.radians(22), period=28.0)
-HOME = (26.29, 73.02)  # Jodhpur
+HOME = (26.29, 73.02)  # home, India
 
 
 def globe(t):
@@ -211,7 +211,7 @@ def globe(t):
             theta = 2 * math.pi * j / n + (k % 2) * math.pi / n
             g.append(dot(k, phi, theta, '<circle r="2.1"/>'))
 
-    # Home: its own ring at Jodhpur's latitude, one accent dot with a pulse.
+    # Home: its own ring at home's latitude, one accent dot with a pulse.
     hk = len(lats)
     hphi = math.radians(HOME[0])
     RINGS[hk] = ring_css(hk, hphi)
@@ -231,7 +231,7 @@ def globe(t):
         f'<circle cx="{cx}" cy="{cy}" r="{R}" fill="none" stroke="{t["faint"]}" stroke-width="1"/>'
         f'<g transform="translate({cx},{cy})" fill="{t["fg"]}">{"".join(g)}</g></g>'
     )
-    cap = "26.29° N  73.02° E  JODHPUR"
+    cap = "26.29° N  73.02° E  INDIA"
     body += label(cap, cx, cy + R + 34, t["muted"], 1.0, anchor="middle", size=12)
     return body, "".join(css)
 
@@ -404,7 +404,7 @@ def signal(t, total, weeks):
 
 
 # ── marquee footer ──────────────────────────────────────────────────────
-PHRASES = ["Outputs over consumption", "Systems that ship", "Built from IIT Jodhpur"]
+PHRASES = ["Outputs over consumption", "Systems that ship", "Built in India"]
 
 
 def footer(t):
@@ -433,7 +433,7 @@ def footer(t):
     b.append(rule(140, t["faint"], 0.2))
     b.append(label("AESHVARYA AWASTHI  ·  2026", 0, 172, t["muted"], 0.3, size=12))
     b.append(label("GITHUB.COM/AESHVARYA", W, 172, t["muted"], 0.3, anchor="end", size=12))
-    return svg(184, "".join(b), "Outputs over consumption. Systems that ship. Built from IIT Jodhpur.", css)
+    return svg(184, "".join(b), "Outputs over consumption. Systems that ship. Built in India.", css)
 
 
 def section(t, num_, title, right=""):

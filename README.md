@@ -76,5 +76,5 @@ A phone video of a house becomes a 3D walkthrough in the browser.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="Outputs over consumption. Systems that ship. Built from IIT Jodhpur.">
+  <img src="assets/footer-light.svg" width="100%" alt="Outputs over consumption. Systems that ship. Built in India.">
 </picture>
